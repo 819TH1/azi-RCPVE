@@ -1,4 +1,31 @@
-819TH1_zombie:                  
+819TH1_zombie:
+  Type: zombie             
   Display: "&2&lゾンビ"
   Health: 90
   Damage: 5
+  Options:
+   Collidable: true
+   DigOutOfGround: true
+   FollowRange: 8
+   Despawn: true
+   KnockbackResistance: 0
+   NoDamageTicks: 0
+   VisibleByDefault: true
+   NoAI: false
+   PreventOtherDrops: true
+   PreventSlimeSplit: true
+   NoGravity: false
+   PreventMobKillDrops: true
+   PreventRandomEquipment: true
+   PreventVanillaDamage: true
+   PreventSunburn: true
+   PreventJockeyMounts: true
+   PreventConversion: true
+   PreventTransformation: true
+   Invisible: false
+   AttackSpeed: 1
+   Scale: 1
+   Movementspeed: 0.2
+   Silent: false
+  Modules:
+    ThreatTable: true
