@@ -17,7 +17,6 @@
    NoGravity: false
    PreventMobKillDrops: true
    PreventRandomEquipment: true
-   PreventVanillaDamage: true
    PreventSunburn: true
    PreventJockeyMounts: true
    PreventConversion: true
