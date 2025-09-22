@@ -4,3 +4,5 @@
   - particlering{particle=flame;r=3;pts=100}
   - delay 30
   - lightning{d=10} @PIR{r=3}
+  - delay 140
+  - skill{s=819TH1_thunder_creeper_skill1}
