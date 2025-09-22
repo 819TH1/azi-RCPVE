@@ -1,12 +1,10 @@
-819TH1_zombie:
+819TH1_template:
   Type: zombie             
-  Display: "&2&lゾンビ"
-  Health: 90
-  Damage: 5
+  Display: ""
   Options:
    Collidable: true
    DigOutOfGround: true
-   FollowRange: 8
+   FollowRange: 20
    Despawn: true
    KnockbackResistance: 0
    NoDamageTicks: 0
