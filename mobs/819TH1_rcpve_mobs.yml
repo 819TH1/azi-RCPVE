@@ -1,7 +1,7 @@
 819TH1_thunder_creeper:
+  template: 819TH1_template
   Type: CREEPER
   Display: "&e&l雷&c&l火&2&lクリーパー"
-  template: 819TH1_template
   Health: 40
   Damage: 15
   Options:
