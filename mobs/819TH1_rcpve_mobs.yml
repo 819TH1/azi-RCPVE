@@ -6,7 +6,7 @@
   Damage: 15
   Options:
     SuperCharged: true
-    PreventSuicide: false
+    PreventSuicide: true
   Skills:
   - cancelevent{sync=true} @self ~onExplode
   - explode{y=3} @self ~onExplode //クリーパーは3
