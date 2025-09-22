@@ -8,4 +8,4 @@
     SuperCharged: true
     PreventSuicide: true
   Skills:
-  - skill{s=819TH1_thunder_creeper_skill1} @self ~onEntercombat
+  - skill{s=819TH1_thunder_creeper_skill1} @self ~onPrime
