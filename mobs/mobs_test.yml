@@ -1,5 +1,5 @@
 819TH1_template:
-  Type: zombie             
+  Type: ZOMBIE
   Display: ""
   Faction: monster
   Options:

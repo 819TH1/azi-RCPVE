@@ -2,5 +2,8 @@
   Type: CREEPER
   Display: "&e&l雷&c&l火&2&lクリーパー"
   template: 819TH1_template
+  Options:
+    SuperCharged: true
+    PreventSuicide: true
   Skills:
   - skill{s=819TH1_thunder_creeper_skill1} @self ~onCombat
