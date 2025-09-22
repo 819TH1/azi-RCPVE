@@ -8,4 +8,6 @@
     SuperCharged: true
     PreventSuicide: false
   Skills:
+  - cancelevent{sync=true} @self ~onExplode
+  - explode{y=3} @self ~onExplode //クリーパーは3
   - skill{s=819TH1_thunder_creeper_skill1} @self ~onPrime
