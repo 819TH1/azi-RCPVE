@@ -1,0 +1,6 @@
+819TH1_thunder_creeper_skill1:
+  Skills:
+  - effect:particle{particle=flash;a=1;hS=0;vS=0} @self
+  - particlering{particle=flame;r=3;pts=100}
+  - delay 30
+  - lightning{d=10} @PIR{r=3}
