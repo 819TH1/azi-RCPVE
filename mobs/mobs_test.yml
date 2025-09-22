@@ -4,15 +4,12 @@
   Faction: monster
   Options:
    Collidable: true
-   DigOutOfGround: true
    FollowRange: 20
    Despawn: true
    KnockbackResistance: 0
    NoDamageTicks: 0
-   VisibleByDefault: true
    NoAI: false
    PreventOtherDrops: true
-   PreventSlimeSplit: true
    NoGravity: false
    PreventMobKillDrops: true
    PreventRandomEquipment: true
@@ -20,6 +17,7 @@
    PreventJockeyMounts: true
    PreventConversion: true
    PreventTransformation: true
+   PreventItemPickup: true
    Invisible: false
    AttackSpeed: 1
    Scale: 1
