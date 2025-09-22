@@ -4,4 +4,4 @@
   - delay 20
   - lightning{d=10} @PIR{r=6}
   - damage{a=10} @PIR{r=6}
-  - effect:particle{p=explosion;a=3;hS=0;vS=0} @self
+  - effect:particle{p=explosion;a=5;hS=0.5;vS=0.5} @self
