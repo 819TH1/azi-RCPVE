@@ -1,6 +1,7 @@
 819TH1_template:
   Type: zombie             
   Display: ""
+  Faction: monster
   Options:
    Collidable: true
    DigOutOfGround: true
@@ -26,3 +27,5 @@
    Silent: false
   Modules:
     ThreatTable: true
+  Skills:
+  - remove{delay=10} @self ~onDeath
