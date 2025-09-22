@@ -1,8 +1,8 @@
 819TH1_thunder_creeper_skill1:
   Skills:
   - effect:particle{particle=flash;a=10;hS=0;vS=0} @self
-  - particlering{particle=flame;r=5;pts=100}
+  - particlering{particle=flame;r=6;pts=100}
   - delay 30
-  - lightning{d=10} @PIR{r=5}
+  - lightning{d=10} @PIR{r=6}
   - delay 140
   - skill{s=819TH1_thunder_creeper_skill1}
