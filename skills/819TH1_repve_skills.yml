@@ -6,3 +6,5 @@
   - lightning{d=15} @PIR{r=6}
   - damage{a=15} @PIR{r=6}
   - e:p{p=explosion;a=5;hS=0.5;vS=0.5} @self
+  - delay 180
+  - skill{s=819TH1_thunder_creeper_skill1} @self
