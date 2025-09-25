@@ -23,6 +23,11 @@
    Scale: 1
    Movementspeed: 0.2
    Silent: false
+  AIGoalSelector:
+  - clear
+  - meleeattack
+  AITargetSelectors:
+  - players
   Modules:
     ThreatTable: true
   Skills:
