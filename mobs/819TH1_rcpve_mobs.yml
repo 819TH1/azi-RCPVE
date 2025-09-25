@@ -6,7 +6,6 @@
   Damage: 15
   Options:
     SuperCharged: true
-    PreventSuicide: true
   Skills:
   - skill{s=819TH1_thunder_creeper_skill1} @self ~onEntercombat
   - cancelevent{sync=true} @self ~onExplode
