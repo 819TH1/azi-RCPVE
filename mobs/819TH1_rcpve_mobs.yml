@@ -4,6 +4,11 @@
   Display: "&e&l雷&c&l火&2&lクリーパー"
   Health: 40
   Damage: 15
+  AIGoalSelector:
+  - clear
+  - meleeattack
+  AITargetSelectors:
+  - players
   Options:
     SuperCharged: true
     PreventSuicide: true
